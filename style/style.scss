@@ -27,7 +27,7 @@ body {
   width: 450px;
   text-align: center;
   display: block;
-  margin: 15px auto 30px auto;
+  margin: 15px auto 30px;
   font-size: 1.2em;
   color: #fff;
 
@@ -83,7 +83,7 @@ body {
       background-color: #333;
       outline: none;
       font-size: 0.85em;
-      padding: 8px 18px 6px 18px;
+      padding: 8px 18px 6px;
       margin-top: 30px;
       opacity: 1;
       cursor: pointer;
@@ -94,7 +94,7 @@ body {
 
       &#tweet-quote {
         float: left;
-        padding: 0px;
+        padding: 0;
         padding-top: 8px;
         text-align: center;
         font-size: 1.2em;
