@@ -1,4 +1,4 @@
-# Random Quran Ayat
+# Random Quran Ayat [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/random-quote-machine/badge)](https://www.codefactor.io/repository/github/googoldkhan/random-quote-machine)
 
 ## Running
 
